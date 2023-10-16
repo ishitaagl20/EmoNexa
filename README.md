@@ -11,7 +11,7 @@
 python emotions.py --mode train
 ```
 
-To view the predictions without training again, download the pre-trained model from [here](https://drive.google.com/file/d/1FUn0XNOzf-nQV7QjbBPA6-8GLoHNNgv-/view?usp=sharing) and then run:  
+To view the predictions without training again run:  
 
 ```bash
 python emotions.py --mode display
