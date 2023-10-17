@@ -3,7 +3,7 @@
 
 ### Emotion Dectector
 
-<p> It is a facial emotion recognition system that operates in two modes: training and real-time emotion detection. In training mode, it employs a convolutional neural network (CNN) built with Keras to recognize facial expressions such as anger and happiness. The script utilizes OpenCV for capturing video frames, and Haar cascades for face detection in real-time emotion recognition mode. Detected faces are processed through the pre-trained CNN, which predicts emotions in real-time and overlays corresponding labels onto the video feed. The trained model achieves an accuracy of 63.2%. </p>
+<p> It is a facial emotion recognition system that operates in two modes: training and real-time emotion detection. In training mode, it employs a convolutional neural network (CNN) built with Keras to recognize facial expressions such as anger and happiness. The script utilizes OpenCV for capturing video frames, and Haar cascades for face detection in real-time emotion recognition mode. Detected faces are processed through the pre-trained CNN, which predicts emotions in real-time and overlays corresponding labels onto the video feed. The trained model achieves an accuracy of 63.2%.  </p>
 
 #### running it....
 
